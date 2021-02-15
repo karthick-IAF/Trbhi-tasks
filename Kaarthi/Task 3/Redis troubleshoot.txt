@@ -1,0 +1,4 @@
+Tried changing the config file of redis server configuration. 
+Changed the permission of redis config file and other related files. 
+
+Unable to resolve the issue. 
