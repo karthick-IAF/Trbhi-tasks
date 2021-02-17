@@ -1,4 +1,3 @@
-Tried to start the IISAdmin service and unable to start the same. 
-Checked the file permission of C23 files under C:\Documents and Settings\All Users\Application Data\Microsoft\Crypto\RSA\MachineKeys directory.
+Tried to start the IISAdmin service and unable to start the same.
 Changed the DefaultAppPool's identity to ApplicationPoolIdentity and started the service DefaultAppPool, the http://localhost/ is started working.
 
